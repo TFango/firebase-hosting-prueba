@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "dist",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "nodenext",
+    "module": "nodenext",
+    "jsx": "react",
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*.*"]
+}
